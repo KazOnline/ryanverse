@@ -1,0 +1,3 @@
+The [[Zanhai]] people were an advanced alien race, propelled to great heights through a golden age of science. For hundreds of years they crafted marvels of medicine and fostered a culture to cast a shadow on all others. The downfall of their society came through stagnation and an strong disposition for war with other civilizations over recourses to fuel their own people. A leader rose to power through cunning and ruthless aggression that pulled the Zanhai in a path that led to their destruction. His name was [[Namir]].
+
+The Zanhai discovered an abundance of rare and valuable materials
