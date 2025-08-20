@@ -36,4 +36,146 @@ To science!
 Based on the higher resolution readings I've managed to convinced [[Captain Phillips]] to take us even closer! With a lower gravity reading, the MSD is naturally lower by roughly the same factor. We're making the corrections as we speak.
 
 **Entry 5: 02/05/2092 17:22(GMT+1)**
-I've just ran a diagnostic in some downtime and I seem to be getting some weird readings out of 
+I've just ran a diagnostic in some downtime and I seem to be getting some weird readings out of my gravimeter. I'm going to investigate while the crew stabilize the orbit.
+
+**Entry 6: 02/05/2092 19:41(GMT+1)**
+Not good! Like most of the bulky, high-precision test equipment we loaded it externally. It's on the outer hull. I used a remote camera to do some close-up inspections and there's a very *very* slight damage to the laser array harness. It looks like some debris caught it. I've looked at the technical docs of the unit and it looks like laser AC-2 won't be reading correctly. Why didn't this come up as a warning outside of a diagnostic!!
+
+**Entry 7: 04/05/2092 02:03(GMT+1)**
+This will be my last entry. I'm sending this out before anything goes horribly wrong as a final report with all of my data. Something needs to come from this.
+
+Do not be mistaken, we will die here. I've included a standard RCA accident report below.
+
+Accident Report: FA01-A
+Severity: Mission Critical
+Fatality: 100%
+Incidents: 2
+
+Incident 1:
+Root Cause Analysis: Manual deviation from set flight plant
+Extent: Deviation guided by false readings as a result of improperly functioning test equipment. Maximum safe distance breached.
+Risk: Medium
+
+Incident 2:
+Root Cause Analysis: Damaged Injection System
+Extent: PFIJ-01 damaged as a result of hardware inspection from Incident 1. Main engine can no longer accept fuel.
+Additional Context: Secondary engines are not strong enough to generate escape velocity from below minimum safe orbital radius.
+Risk: Fatal
+
+Persons Affected: All Crew (RARS Bentley)
+
+Data Dump:
+RWD_A12_20920418T2005.bin
+RWD_B09_20920418T2005.bin
+RWD_F77_20920418T2005.bin
+RWD_K32_20920418T2005.bin
+RWD_Q04_20920418T2005.bin
+RWD_X91_20920418T2005.bin
+
+RWD_A12_20920419T0315.bin
+RWD_B09_20920419T0315.bin
+RWD_F77_20920419T0315.bin
+RWD_K32_20920419T0315.bin
+RWD_Q04_20920419T0315.bin
+RWD_X91_20920419T0315.bin
+
+RWD_A12_20920419T1010.bin
+RWD_B09_20920419T1010.bin
+RWD_F77_20920419T1010.bin
+RWD_K32_20920419T1010.bin
+RWD_Q04_20920419T1010.bin
+RWD_X91_20920419T1010.bin
+
+RWD_A12_20920419T1940.bin
+RWD_B09_20920419T1940.bin
+RWD_F77_20920419T1940.bin
+RWD_K32_20920419T1940.bin
+RWD_Q04_20920419T1940.bin
+RWD_X91_20920419T1940.bin
+
+RWD_A12_20920420T0215.bin
+RWD_B09_20920420T0215.bin
+RWD_F77_20920420T0215.bin
+RWD_K32_20920420T0215.bin
+RWD_Q04_20920420T0215.bin
+RWD_X91_20920420T0215.bin
+
+RWD_A12_20920420T1100.bin
+RWD_B09_20920420T1100.bin
+RWD_F77_20920420T1100.bin
+RWD_K32_20920420T1100.bin
+RWD_Q04_20920420T1100.bin
+RWD_X91_20920420T1100.bin
+
+RWD_A12_20920420T2010.bin
+RWD_B09_20920420T2010.bin
+RWD_F77_20920420T2010.bin
+RWD_K32_20920420T2010.bin
+RWD_Q04_20920420T2010.bin
+RWD_X91_20920420T2010.bin
+
+RWD_A12_20920421T0300.bin
+RWD_B09_20920421T0300.bin
+RWD_F77_20920421T0300.bin
+RWD_K32_20920421T0300.bin
+RWD_Q04_20920421T0300.bin
+RWD_X91_20920421T0300.bin
+
+RWD_A12_20920421T1130.bin
+RWD_B09_20920421T1130.bin
+RWD_F77_20920421T1130.bin
+RWD_K32_20920421T1130.bin
+RWD_Q04_20920421T1130.bin
+RWD_X91_20920421T1130.bin
+
+RWD_A12_20920421T2025.bin
+RWD_B09_20920421T2025.bin
+RWD_F77_20920421T2025.bin
+RWD_K32_20920421T2025.bin
+RWD_Q04_20920421T2025.bin
+RWD_X91_20920421T2025.bin
+
+RWD_A12_20920501T0410.bin
+RWD_B09_20920501T0410.bin
+RWD_F77_20920501T0410.bin
+RWD_K32_20920501T0410.bin
+RWD_Q04_20920501T0410.bin
+RWD_X91_20920501T0410.bin
+
+RWD_A12_20920501T1100.bin
+RWD_B09_20920501T1100.bin
+RWD_F77_20920501T1100.bin
+RWD_K32_20920501T1100.bin
+RWD_Q04_20920501T1100.bin
+RWD_X91_20920501T1100.bin
+
+RWD_A12_20920501T2015.bin
+RWD_B09_20920501T2015.bin
+RWD_F77_20920501T2015.bin
+RWD_K32_20920501T2015.bin
+RWD_Q04_20920501T2015.bin
+RWD_X91_20920501T2015.bin
+
+RWD_A12_20920502T0355.bin
+RWD_B09_20920502T0355.bin
+RWD_F77_20920502T0355.bin
+RWD_K32_20920502T0355.bin
+RWD_Q04_20920502T0355.bin
+RWD_X91_20920502T0355.bin
+
+RWD_A12_20920502T1220.bin
+RWD_B09_20920502T1220.bin
+RWD_F77_20920502T1220.bin
+RWD_K32_20920502T1220.bin
+RWD_Q04_20920502T1220.bin
+RWD_X91_20920502T1220.bin
+
+RWD_A12_20920502T1856.bin
+RWD_B09_20920502T1856.bin
+RWD_F77_20920502T1856.bin
+RWD_K32_20920502T1856.bin
+RWD_Q04_20920502T1856.bin
+RWD_X91_20920502T1856.bin
+
+Findings Report:
+The anomaly - blackhole - whatever... It *does* have less mass. However, it doesn't throw off it's orbit. Why? Because it isn't a solid mass. I can't calculate it's mass value beyond the event horizon. I believe, based on the orbital data recorded and my other reasons in the data dumps above, that it is externally linked through some *external* space to something else. It's not a Black Hole, it's a wormhole.
