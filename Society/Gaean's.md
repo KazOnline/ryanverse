@@ -1,0 +1,5 @@
+The Gaea Co-Op are a primarily Martian based society. Their territory is [[Gaea]], the first-made Martian bubble city. They are a highly democratic, logical faction who formed from mass-migration after the originally earth-based space freight business [[Gaea Co-Op]] made huge investments in research and development of space-travel technology.
+
+This massive investment sparked the invention of the [[Ashton Drive]] named after [[Richard Ashton]] the initial scientist responsible for it's design. With this huge innovation, humanity's ability to travel through space was drastically improved, initiating a huge global expansion of space-based operations and allowing humanity to move beyond its home world.
+
+Gaea is in recent times known for its continued technological growth in fields such as terraforming and medical sciences, relocating it's industry entirely to Mars 
